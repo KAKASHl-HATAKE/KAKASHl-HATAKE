@@ -14,6 +14,7 @@
   <a href="https://rentry.co/kakashihatake" target="_blank">Kakashi Hatake Rentry</a>
 </p>
 
-<p align="center" style="margin-top: 20px;">
+<p align="center">
+  <a href="https://rentry.co/kakashihatake" target="_blank">rentyr</a> &nbsp;|&nbsp; 
   <a href="https://kakashi.atabook.org/" target="_blank">ata</a>
 </p>
