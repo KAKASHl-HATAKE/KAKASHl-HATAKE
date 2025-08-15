@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rentry.co/kakashihatake" target="_blank">rentry</a> 
+  <a href="https://rentry.co/kakashihatake" target="_blank">rentyr</a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kakashi.atabook.org/" target="_blank">ata</a>
 </p>
