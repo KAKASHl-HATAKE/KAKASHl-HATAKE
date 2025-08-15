@@ -9,4 +9,11 @@
 <p align="center">
   <img src="https://files.catbox.moe/1csb09.png" alt="Centered Image" width="400">
 </p>
-<a href="https://rentry.co/kakashihatake" target="_blank">rentry</a>
+
+<p align="center">
+  <a href="https://rentry.co/kakashihatake" target="_blank">Kakashi Hatake Rentry</a>
+</p>
+
+<p align="center" style="margin-top: 20px;">
+  <a href="https://kakashi.atabook.org/" target="_blank">ata</a>
+</p>
