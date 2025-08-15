@@ -9,4 +9,4 @@
 <p align="center">
   <img src="https://files.catbox.moe/1csb09.png" alt="Centered Image" width="400">
 </p>
-<a href="https://rentry.co/kakashihatake" target="_blank">Kakashi Hatake Rentry</a>
+<a href="https://rentry.co/kakashihatake" target="_blank">rentry</a>
