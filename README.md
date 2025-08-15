@@ -15,3 +15,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kakashi.atabook.org/" target="_blank">ata</a>
 </p>
+
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31n7g6dvqqckkvzd64dbkpkhaqqq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31n7g6dvqqckkvzd64dbkpkhaqqq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false" width="400" />
+  </a>
+</p>
