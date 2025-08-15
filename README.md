@@ -9,3 +9,4 @@
 <p align="center">
   <img src="https://files.catbox.moe/1csb09.png" alt="Centered Image" width="400">
 </p>
+[rentry](https://rentry.co/kakashihatake)
